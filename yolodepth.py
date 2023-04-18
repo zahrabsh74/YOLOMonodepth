@@ -175,7 +175,9 @@ def combined_model(args):
 
             #warn for motorcycles who are closer than 4meters
             if center_point_distance<400:
-                print("!!!!!!!WARNING,the motorcycle is too close!!!!!!!!")
+                print("!!!!!!!WARNING situation,the motorcycle is too close!!!!!!!!")
+		else 
+		print("Normal situation")
             end_yolodepth = time.time()
 
             ## Saving the yolo detection image
