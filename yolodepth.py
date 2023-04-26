@@ -3,7 +3,7 @@
 #   File name   : final_test.py
 #   Author      : Zahrabsh74
 #   Created date: 2020
-#   Description :define functions of yolo detection and monodepth2 estimationin a combine_model
+#   Description :define functions of yolo detection and monodepth2 estimation 
 #                save output results of detection, distances and histograms
 #                calculate time for each steps and also totall
 #================================================================
