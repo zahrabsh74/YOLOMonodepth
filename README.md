@@ -6,6 +6,13 @@ This model is presented for specifically detecting motorcycles with black windsh
 This model was trained using a custom dataset from motorcycles in Tehran's streets.
 
 ## Result
-![24](https://github.com/zahrabsh74/YOLOMonodepth/assets/52561099/9289fbce-1607-4b2c-bddc-cf100e7cd62d)
+![24](https://github.com/zahrabsh74/YOLOMonodepth/blob/main/results.png)
 
 
+## Inference
+- Download the Modepth_model [] and Yolo_model []
+
+- Run the following code:
+```
+python final_test.py ---image_dire "./motorcycle_image"
+```
