@@ -4,6 +4,12 @@ Real-time time motorcycle detection and range estimation with MD-TinyYOLOv4 and 
 This model is presented for specifically detecting motorcycles with black windshields.
 
 This model was trained using a custom dataset from motorcycles in Tehran's streets.
+## Requirements
+- Tensorflow
+- Opencv
+- torch
+- torchvision
+- matplotlib
 
 ## Result
 ![24](https://github.com/zahrabsh74/YOLOMonodepth/blob/main/results.png)
